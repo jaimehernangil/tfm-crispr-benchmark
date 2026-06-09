@@ -1,0 +1,13 @@
+herramienta,bloque,gc_media,gc_mediana,gc_sd,n
+CHOPCHOP,Complejo Integrador,53.3,52.5,11.7,6
+CHOPCHOP,Complejo Mediador,59.4,60,9.5,9
+CHOPCHOP,Elongación transcripcional,55.3,60,8.8,15
+CHOPCHOP,Función mitocondrial,54.3,55,9.6,15
+CHOPCHOP,Procesamiento de RNA,56.1,55,6.5,9
+CHOPCHOP,Regulación/señalización,58.3,57.5,9.8,6
+crisprVerse,Complejo Integrador,42.5,40,11.7,6
+crisprVerse,Complejo Mediador,51.1,55,7.4,9
+crisprVerse,Elongación transcripcional,52.7,50,8.2,15
+crisprVerse,Función mitocondrial,49.7,50,12.2,15
+crisprVerse,Procesamiento de RNA,53.3,55,14.1,9
+crisprVerse,Regulación/señalización,51.7,47.5,12.9,6

@@ -1,0 +1,13 @@
+bloque,herramienta,n_guias,hamming_media,hamming_sd,hamming_mediana,hamming_min,hamming_max,hamming_le3,pct_le3,seed_identica
+Complejo Integrador,CHOPCHOP,4,13,1.83,13,11,15,0,0,0
+Complejo Integrador,crisprVerse,4,13.25,2.06,13,11,16,0,0,0
+Complejo Mediador,CHOPCHOP,6,11.33,1.51,11,10,14,0,0,0
+Complejo Mediador,crisprVerse,6,12,1.1,12,10,13,0,0,0
+Elongación transcripcional,CHOPCHOP,10,13,1.56,13,11,15,0,0,0
+Elongación transcripcional,crisprVerse,10,13,1.63,13.5,11,15,0,0,0
+Función mitocondrial,CHOPCHOP,10,14,0.94,14,12,15,0,0,0
+Función mitocondrial,crisprVerse,10,12.7,1.77,13,10,16,0,0,0
+Procesamiento de RNA,CHOPCHOP,6,13.17,1.94,12.5,11,16,0,0,0
+Procesamiento de RNA,crisprVerse,6,13,1.41,13,11,15,0,0,0
+Regulación/señalización,CHOPCHOP,4,13,0.82,13,12,14,0,0,0
+Regulación/señalización,crisprVerse,4,12.5,1,13,11,13,0,0,0
